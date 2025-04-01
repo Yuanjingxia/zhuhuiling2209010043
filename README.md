@@ -1,122 +1,34 @@
 # zhuhuiling2209010043
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>求职简历</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        h1 {
-            margin: 0;
-        }
-        .contact-info {
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        .profile-pic {
-            width: 170px;
-            height: 165x;
-            border-radius: 10%;
-            object-fit: cover;
-            margin: 0 auto 20px;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .section h2 {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-left: 5px solid #333;
-        }
-        .section ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .section ul li {
-            margin-bottom: 10px;
-        }
-        footer {
-            text-align: center;
-            color: #777;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
+# 朱慧玲
 
-    <header>
-        <img src="图片.png" alt="个人卡通照片" class="profile-pic">
-        <h1>朱慧玲2209010043</h1>
-        <p class="contact-info">电话: 123-456-7890 | 邮箱: example@example.com | 地址: 北京市海淀区</p>
-    </header>
+学号：2209010043
 
-    <div class="section" id="summary">
-        <h2>个人简介</h2>
-        <p>拥有5年的软件开发经验，擅长于Web前端和后端的架构设计与实现。寻求一个具有挑战性的职位，以进一步提升我的技能并为公司做出贡献。</p>
-    </div>
+## 个人简介
+信息管理与信息系统专业毕业生，具备扎实的信息系统分析、设计与开发能力，熟悉数据管理与数据分析流程，熟练掌握多种编程语言和数据库技术。对新技术充满热情，具备良好的团队协作能力和沟通能力，致力于在信息技术领域实现数据驱动的业务优化与创新。
 
-    <div class="section" id="experience">
-        <h2>工作经验</h2>
-        <ul>
-            <li>
-                <strong>ABC科技有限公司</strong> - 前端开发工程师 (2018-至今)<br>
-                - 负责公司产品前端开发与维护<br>
-                - 优化前端性能，提高用户体验<br>
-                - 协作后端开发API接口
-            </li>
-            <li>
-                <strong>XYZ网络公司</strong> - 软件开发实习生 (2017-2018)<br>
-                - 协助开发团队完成多个项目<br>
-                - 参与代码审查与单元测试
-            </li>
-        </ul>
-    </div>
+## 技能
+- **编程语言**：Python、Java、JavaScript
+- **数据库技术**：MySQL、Oracle、MongoDB
+- **数据分析工具**：Excel（高级功能）、Tableau、PowerBI
+- **开发框架**：Spring Boot、Django、React
+- **项目管理工具**：Jira、Trello
+- **其他技能**：数据挖掘、数据可视化、系统建模与仿真、敏捷开发
 
-    <div class="section" id="education">
-        <h2>教育背景</h2>
-        <ul>
-            <li>清华大学 - 计算机科学与技术学士 (2013-2017)</li>
-        </ul>
-    </div>
+## 工作经验
+### 科技有限公司 - 数据专员 | 2024年10月
+**[工作描述]**
+- 负责公司内部信息系统的日常维护与升级，确保系统稳定运行，及时解决用户反馈的问题。
+- 参与公司数字化转型项目，协助业务部门梳理业务流程，优化信息系统架构，提高业务效率。
+- 使用数据分析工具对业务数据进行分析，生成可视化报告，为管理层决策提供数据支持。
+- 参与新系统的开发与测试工作，负责部分模块的代码编写和测试，确保系统功能符合业务需求。
+- 组织内部技术培训，分享新技术、新工具的应用案例，提升团队技术水平。
 
-    <div class="section" id="skills">
-        <h2>技能</h2>
-        <ul>
-            <li>熟练掌握HTML5, CSS3, JavaScript</li>
-            <li>熟悉React, Vue, Angular等前端框架</li>
-            <li>了解Node.js, Express等后端技术</li>
-            <li>熟悉Git版本控制</li>
-        </ul>
-    </div>
+## 语言能力
+- **中文**：母语
+- **英语**：CET-4/CET-6，能够熟练阅读和撰写英文技术文档，具备良好的口语交流能力
 
-    <div class="section" id="projects">
-        <h2>项目经历</h2>
-        <ul>
-            <li>
-                <strong>在线商城系统</strong><br>
-                - 负责前端界面设计与实现<br>
-                - 使用React和Redux进行状态管理
-            </li>
-            <li>
-                <strong>博客系统</strong><br>
-                - 实现用户认证和文章发布功能<br>
-                - 使用Node.js和Express搭建后端服务
-            </li>
-        </ul>
-    </div>
-
-    <footer>
-        <p>感谢您的阅读！期待您的联系。</p>
-    </footer>
-
-</body>
-</html>
+## 兴趣爱好
+- 编程与开源项目贡献
+- 数据分析与可视化
+- 阅读科技书籍与博客
+- 参加技术交流活动与研讨会
